@@ -1,0 +1,107 @@
+{
+   "locale": {
+      "message": "hi"
+   },
+   "sp_chrome_https_case_text": {
+      "message": "यह एक्सटेंशन सुरक्षित सामग्री (उदा. http\u003Cb>s\u003C/b>://) वाले इसके जैसे पृष्ठों से सुझाव नहीं दे सकता. आपसे वापस सार्वजनिक वेब पर मिलते हैं!"
+   },
+   "sp_chrome_special_case_text": {
+      "message": "यह एक्‍सटेंशन मुखपृष्ठों और अधिकांश वेबसाइटों के प्रमुख पृष्ठों पर श्रेष्ठ कार्य करता है.\u003Cp>जो वेबसाइट आपको पहले से पसंद हो, उस पर एक्सटेंशन आज़माएं&mdash;इसे आज़माएं और जो आप जानते हैं उसके बारे में पृष्ठ सुझाव देखें."
+   },
+   "sp_default_title": {
+      "message": "Google समान पृष्ठ देखें"
+   },
+   "sp_description": {
+      "message": "वर्तमान में आपके द्वारा ब्राउज़ किए जा रहे पृष्ठ के समान वेबपृष्ठों का पता लगाएं."
+   },
+   "sp_domain_change_message": {
+      "message": " www.google.com में अपना स्‍थानीय डोमेन बदलने के लिए, \u003Ca id='over' href='#'>क्‍लिक करें\u003C/a>."
+   },
+   "sp_domain_clicked_message": {
+      "message": "समान पृष्ठों को पुनर्प्राप्त करने के लिए www.google.com को आपके स्थानीय डोमेन के रूप में सहेजा गया."
+   },
+   "sp_domain_message": {
+      "message": "समान पृष्ठों की सूची पुनर्प्राप्त करने के लिए एक्सटेंशन $1 से संपर्क करेगा. ",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_num_pages": {
+      "message": "पृष्ठों की संख्‍या: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_about_google": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/about.html'>Google के बारे में\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_copy": {
+      "message": "&copy;2010 Google"
+   },
+   "sp_options_feedback": {
+      "message": "हम \u003Ca href='mailto:similarpages-extension@google.com'>similarpages-extension@google.com\u003C/a> पर आपके किसी भी फ़ीडबैक को सुनना पसंद करेंगे. धन्यवाद!"
+   },
+   "sp_options_intro": {
+      "message": "Google समान पृष्ठ ब्राउज़र एक्सटेंशन आपको त्वरित रूप से पूर्वावलोकन और अन्य ऐसे पृष्ठों को -- शीघ्रता से खोजने की अनुमति देता है, जो आपके द्वारा ब्राउज़ किए जा रहे किसी पृष्ठ के समान होते हैं!"
+   },
+   "sp_options_legal": {
+      "message": "जब आप समान पृष्ठ बटन क्लिक करते हैं, तो आपका ब्राउज़र यह देखने के लिए Google को खोज क्‍वेरी भेजेगा कि क्‍या आपके द्वारा देखे जा रहे पृष्ठ जैसे कोई और समान पृष्ठ हैं या नहीं.\u003Cp>\u003Cspan id='domain_select_block'>\u003C/span>क्‍वेरी से संबंधित डेटा से Google की \u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>गोपनीयता नीति\u003C/a> में वर्णित अनुसार व्‍यवहार किया जाएगा",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_privacy_policy": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>गोपनीयता नीति\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_tos": {
+      "message": "\u003Ca href='http://chrome.google.com/extensions/intl/$1/gallery_tos.html'>सेवा की शर्तें\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_uninstall": {
+      "message": "अनइंस्टॉल करें"
+   },
+   "sp_options_uninstall_message": {
+      "message": "Google समान पृष्ठ को अनइंस्‍टॉल करने के लिए, Chrome के टूल &gt; एक्‍सटेंशन मेनू विकल्प का उपयोग करें, और Google समान पृष्ठ  एक्‍सटेंशन के लिंक पर क्‍लिक करें."
+   },
+   "sp_preview_not_available": {
+      "message": "पूर्वावलोकन\u003Cbr>उपलब्ध नहीं"
+   },
+   "sp_product_name": {
+      "message": "Google समान पृष्ठ बीटा (Google द्वारा)"
+   },
+   "sp_redirect_host": {
+      "message": "http://www.google.com"
+   },
+   "sp_space": {
+      "message": " "
+   },
+   "sp_title": {
+      "message": "Google समान पृष्ठ"
+   },
+   "sp_tld_special_case_text": {
+      "message": "वर्तमान में एक्सटेंशन आपके देश/क्षेत्र के लिए उपलब्ध नहीं है. कृपया शीघ्र ही वापस जांचें."
+   },
+   "sp_zero_results": {
+      "message": "कोई समान पृष्ठ नहीं मिले."
+   }
+}

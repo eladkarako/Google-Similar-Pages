@@ -1,0 +1,107 @@
+{
+   "locale": {
+      "message": "zh-CN"
+   },
+   "sp_chrome_https_case_text": {
+      "message": "此扩展程序无法在包含安全内容（例如，http\u003Cb>s\u003C/b>://）的网页中提供任何建议。请返回公开网页！"
+   },
+   "sp_chrome_special_case_text": {
+      "message": "此扩展程序可在大多数网站的首页或主页面上实现最佳性能。\u003Cp>您可以在自己喜爱的网站上试用此扩展程序 &mdash; 体验实际效果，并查看关于您已知内容的网页建议。"
+   },
+   "sp_default_title": {
+      "message": "查看 Google 类似网页"
+   },
+   "sp_description": {
+      "message": "查找与您当前所浏览网页类似的网页。"
+   },
+   "sp_domain_change_message": {
+      "message": "要将您的本地域更改为 www.google.com，请\u003Ca id='over' href='#'>点击此处\u003C/a>。"
+   },
+   "sp_domain_clicked_message": {
+      "message": "已将 www.google.com 保存为用于检索类似网页的本地域。"
+   },
+   "sp_domain_message": {
+      "message": "该扩展程序会连接 $1，以便检索类似网页的列表。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_num_pages": {
+      "message": "页数：$1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_about_google": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/about.html'>Google 大全\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_copy": {
+      "message": "&copy;2010 Google"
+   },
+   "sp_options_feedback": {
+      "message": "如有任何反馈意见，欢迎您向 \u003Ca href='mailto:similarpages-extension@google.com'>similarpages-extension@google.com\u003C/a> 发送邮件。非常感谢！"
+   },
+   "sp_options_intro": {
+      "message": "Google 类似网页浏览器扩展程序可让您实时地快速预览和浏览与当前所浏览网页类似的其他网页！"
+   },
+   "sp_options_legal": {
+      "message": "当您点击“类似网页”按钮时，浏览器就会向 Google 发送搜索查询，查找是否存在与您当前所查看页类似的任何网页。\u003Cp>\u003Cspan id='domain_select_block'>\u003C/span>系统会根据 Google 的\u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>隐私权政策\u003C/a>处理与该查询相关的数据。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_privacy_policy": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>隐私权政策\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_tos": {
+      "message": "\u003Ca href='http://chrome.google.com/extensions/intl/$1/gallery_tos.html'>服务条款\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_uninstall": {
+      "message": "卸载"
+   },
+   "sp_options_uninstall_message": {
+      "message": "要卸载 Google 类似网页，请使用 Chrome 浏览器的“工具”&gt;“扩展程序”菜单选项，然后点击 Google 类似网页扩展程序的“卸载”链接。"
+   },
+   "sp_preview_not_available": {
+      "message": "不提供\u003Cbr>预览"
+   },
+   "sp_product_name": {
+      "message": "Google 类似网页测试版（由 Google 提供）"
+   },
+   "sp_redirect_host": {
+      "message": "http://www.google.com"
+   },
+   "sp_space": {
+      "message": ""
+   },
+   "sp_title": {
+      "message": "Google 类似网页"
+   },
+   "sp_tld_special_case_text": {
+      "message": "目前，您所在的国家/地区尚不支持该扩展程序。请过段时间再回来看看。"
+   },
+   "sp_zero_results": {
+      "message": "找不到类似网页。"
+   }
+}

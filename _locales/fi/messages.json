@@ -1,0 +1,107 @@
+{
+   "locale": {
+      "message": "fi"
+   },
+   "sp_chrome_https_case_text": {
+      "message": "Tämä laajennus ei voi esittää ehdotuksia tämän kaltaisista sivuista, joiden sisältö on suojattu (esim. http\u003Cb>s\u003C/b>://). Nähdään, kun palaat takaisin julkisille sivuille!"
+   },
+   "sp_chrome_special_case_text": {
+      "message": "Tämä laajennus toimii parhaiten kotisivuilla tai sivustojen etusivuilla.\u003Cp>Kokeile laajennusta suosikkisivustossasi &mdash; testaa sen toiminta ja katso, mitä ehdotuksia tuntemallesi sivulle annetaan."
+   },
+   "sp_default_title": {
+      "message": "Tutustu Google Similar Pagesiin"
+   },
+   "sp_description": {
+      "message": "Löydä verkkosivuja, jotka ovat samankaltaisia kuin katselemasi sivu."
+   },
+   "sp_domain_change_message": {
+      "message": " Voit muuttaa paikallisen verkkotunnuksen verkkotunnukseksi www.google.com \u003Ca id='over' href='#'>klikkaamalla tätä\u003C/a>."
+   },
+   "sp_domain_clicked_message": {
+      "message": "www.google.com on tallennettu paikalliseksi verkkotunnukseksi, ja sitä käytetään samankaltaisien sivujen noutamiseen."
+   },
+   "sp_domain_message": {
+      "message": "Laajennus ottaa yhteyttä verkkotunnukseen osoitteessa $1 hakiessaan samankaltaisten sivujen luetteloa.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_num_pages": {
+      "message": "Sivujen lukumäärä: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_about_google": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/about.html'>Tietoja Googlesta\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_copy": {
+      "message": "&copy;2010 Google"
+   },
+   "sp_options_feedback": {
+      "message": "Voit lähettää palautetta osoitteeseen \u003Ca href='mailto:similarpages-extension@google.com'>similarpages-extension@google.com\u003C/a>. Kiitos!"
+   },
+   "sp_options_intro": {
+      "message": "Google Similar Pages -selainlaajennuksen avulla voit salamannopeasti esikatsella ja tutkia muita sivuja, jotka ovat samankaltaisia juuri katselemasi sivun kanssa."
+   },
+   "sp_options_legal": {
+      "message": "Kun klikkaat Similar Pages -painiketta, selaimesi lähettää Googlelle hakukyselyn ja selvittää, onko tarjolla muita tarkastelemasi sivun kaltaisia sivuja.\u003Cp>\u003Cspan id='domain_select_block'>\u003C/span>Kyselyyn liittyviä tietoja käsitellään Googlen \u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>tietosuojakäytännön\u003C/a> mukaisesti.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_privacy_policy": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>Tietosuojakäytäntö\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_tos": {
+      "message": "\u003Ca href='http://chrome.google.com/extensions/intl/$1/gallery_tos.html'>Käyttöehdot\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_uninstall": {
+      "message": "Poista"
+   },
+   "sp_options_uninstall_message": {
+      "message": "Voit poistaa Google Similar Pagesin klikkaamalla Poista-linkkiä Google Similar Pages -laajennuksen kohdalla Chromen valikkokohdassa Työkalut &gt; Laajennukset."
+   },
+   "sp_preview_not_available": {
+      "message": "Esikatselu\u003Cbr>ei ole saatavilla"
+   },
+   "sp_product_name": {
+      "message": "Google Similar Pages beta-versio (Googlen tuote)"
+   },
+   "sp_redirect_host": {
+      "message": "http://www.google.com"
+   },
+   "sp_space": {
+      "message": " "
+   },
+   "sp_title": {
+      "message": "Google Similar Pages"
+   },
+   "sp_tld_special_case_text": {
+      "message": "Laajennus ei ole vielä saatavilla maassasi. Tarkista pian uudelleen."
+   },
+   "sp_zero_results": {
+      "message": "Samankaltaisia sivuja ei löytynyt."
+   }
+}

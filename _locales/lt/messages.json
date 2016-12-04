@@ -1,0 +1,107 @@
+{
+   "locale": {
+      "message": "lt"
+   },
+   "sp_chrome_https_case_text": {
+      "message": "Šis plėtinys negali pateikti pasiūlymų iš puslapių, kuriuose yra saugaus turinio (pvz., http\u003Cb>s\u003C/b>://). Iki pasimatymo viešajame žiniatinklyje!"
+   },
+   "sp_chrome_special_case_text": {
+      "message": "Šis plėtinys geriausiai veikia daugumos svetainių pagrindiniuose puslapiuose.\u003Cp>Išbandykite plėtinį mėgiamoje svetainėje&mdash;paleiskite jį ir peržiūrėkite puslapių apie žinomus dalykus pasiūlymus."
+   },
+   "sp_default_title": {
+      "message": "Žr. „Google“ panašius puslapius"
+   },
+   "sp_description": {
+      "message": "Atraskite puslapių, panašių į šiuo metu naršomą."
+   },
+   "sp_domain_change_message": {
+      "message": " Jei norite pakeisti vietinį domeną į www.google.com, \u003Ca id='over' href='#'>spustelėkite čia\u003C/a>."
+   },
+   "sp_domain_clicked_message": {
+      "message": "www.google.com išsaugotas kaip vietinis domenas, skirtas panašiems puslapiams gauti."
+   },
+   "sp_domain_message": {
+      "message": "Plėtinys susisieks su $1 ir gaus panašių puslapių sąrašą.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_num_pages": {
+      "message": "Puslapių skaičius: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_about_google": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/about.html'>Apie „Google“\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_copy": {
+      "message": "&copy; „Google“, 2010 m."
+   },
+   "sp_options_feedback": {
+      "message": "Mielai perskaitysime atsiliepimus, siunčiamus šiuo adresu: \u003Ca href='mailto:similarpages-extension@google.com'>similarpages-extension@google.com\u003C/a>. Dėkojame!"
+   },
+   "sp_options_intro": {
+      "message": "Naudojant „Google“ panašių puslapių naršyklės plėtinį galima greitai peržiūrėti ir tyrinėti kitus puslapius, panašius į naršomą. Greitai!"
+   },
+   "sp_options_legal": {
+      "message": "Spustelėjus panašių puslapių mygtuką, naršyklė nusiųs paieškos užklausą „Google“, ieškodama panašių į dabar peržiūrimą puslapių.\u003Cp>\u003Cspan id='domain_select_block'>\u003C/span>Su užklausa susiję duomenys bus tvarkomi pagal „Google“ \u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>privatumo politiką\u003C/a>.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_privacy_policy": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>Privatumo politika\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_tos": {
+      "message": "\u003Ca href='http://chrome.google.com/extensions/intl/$1/gallery_tos.html'>Paslaugų teikimo sąlygos\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_uninstall": {
+      "message": "Pašalinti"
+   },
+   "sp_options_uninstall_message": {
+      "message": "Jei norite pašalinti „Google“ panašius puslapius, naudokite „Chrome“ įrankių &gt; plėtinių meniu parinktį ir spustelėkite „Google“ panašių puslapių plėtinio nuorodą „Pašalinti“."
+   },
+   "sp_preview_not_available": {
+      "message": "Peržiūra\u003Cbr>negalima"
+   },
+   "sp_product_name": {
+      "message": "„Google“ panašūs puslapiai“ beta („Google“)"
+   },
+   "sp_redirect_host": {
+      "message": "http://www.google.com"
+   },
+   "sp_space": {
+      "message": " "
+   },
+   "sp_title": {
+      "message": "„Google“ panašūs puslapiai"
+   },
+   "sp_tld_special_case_text": {
+      "message": "Plėtinys šiuo metu negalimas jūsų šalyje / regione. Netrukus bandykite dar kartą."
+   },
+   "sp_zero_results": {
+      "message": "Nerasta panašių puslapių."
+   }
+}

@@ -1,0 +1,107 @@
+{
+   "locale": {
+      "message": "fr"
+   },
+   "sp_chrome_https_case_text": {
+      "message": "Cette extension ne permet pas d'obtenir des suggestions à partir de pages possédant du contenu sécurisé comme celle-ci (par ex., http\u003Cb>s\u003C/b>://). Rendez-vous sur le Web public."
+   },
+   "sp_chrome_special_case_text": {
+      "message": "Cette extension fonctionne de manière optimale sur la plupart des sites Web lorsqu'elle est associée à la page d'accueil ou à la page principale.\u003Cp>Essayez-la sur un site Web que vous appréciez.&mdash;Testez-la pour afficher des suggestions de pages relatives à un sujet que vous connaissez."
+   },
+   "sp_default_title": {
+      "message": "Voir Google Similar Pages"
+   },
+   "sp_description": {
+      "message": "Trouvez des pages Web similaires à celle que vous consultez."
+   },
+   "sp_domain_change_message": {
+      "message": " Pour remplacer le domaine local par www.google.com, \u003Ca id='over' href='#'>cliquez ici\u003C/a>."
+   },
+   "sp_domain_clicked_message": {
+      "message": "www.google.com a été enregistré comme votre domaine local pour la recherche de pages similaires."
+   },
+   "sp_domain_message": {
+      "message": "L'extension contactera $1 pour récupérer la liste de pages similaires.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_num_pages": {
+      "message": "Nombre de pages : $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_about_google": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/about.html'>À propos de Google\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_copy": {
+      "message": "&copy; Google 2010"
+   },
+   "sp_options_feedback": {
+      "message": "Faites-nous part de vos impressions à l'adresse \u003Ca href='mailto:similarpages-extension@google.com'>similarpages-extension@google.com\u003C/a>."
+   },
+   "sp_options_intro": {
+      "message": "L'extension de navigateur Google Similar Pages vous permet de visualiser rapidement et d'explorer des pages similaires à celle que vous êtes en train de consulter, de manière instantanée."
+   },
+   "sp_options_legal": {
+      "message": "Lorsque vous cliquez sur le bouton \"Pages similaires\", votre navigateur envoie une requête de recherche à Google pour vérifier l'existence d'éventuelles pages similaires à celle que vous consultez.\u003Cp>\u003Cspan id='domain_select_block'>\u003C/span>Ces données connexes sont gérées conformément aux \u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>règles de confidentialité\u003C/a> de Google.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_privacy_policy": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>Règles de confidentialité\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_tos": {
+      "message": "\u003Ca href='http://chrome.google.com/extensions/intl/$1/gallery_tos.html'>Conditions d'utilisation\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_uninstall": {
+      "message": "Désinstaller"
+   },
+   "sp_options_uninstall_message": {
+      "message": "Pour désinstaller Google Similar Pages, utilisez le menu \"Outils\"&gt;\"Extensions\" de Google Chrome, puis cliquez sur le lien \"Désinstaller\" de l'extension Google Similar Pages."
+   },
+   "sp_preview_not_available": {
+      "message": "Aperçu\u003Cbr>non disponible"
+   },
+   "sp_product_name": {
+      "message": "Google Similar Pages Bêta (par Google)"
+   },
+   "sp_redirect_host": {
+      "message": "http://www.google.fr"
+   },
+   "sp_space": {
+      "message": " "
+   },
+   "sp_title": {
+      "message": "Google Similar Pages"
+   },
+   "sp_tld_special_case_text": {
+      "message": "Cette extension n'est pas disponible dans votre pays ou votre région pour le moment. Revenez sur cette page dans quelque temps."
+   },
+   "sp_zero_results": {
+      "message": "Aucune page similaire trouvée."
+   }
+}

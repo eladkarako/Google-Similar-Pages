@@ -1,0 +1,107 @@
+{
+   "locale": {
+      "message": "el"
+   },
+   "sp_chrome_https_case_text": {
+      "message": "Αυτή η επέκταση δεν μπορεί να κάνει προτάσεις από σελίδες που περιέχουν προστατευμένο περιεχόμενο (π.χ., http\u003Cb>s\u003C/b>://). Θα σας δούμε στον δημόσιο ιστό!"
+   },
+   "sp_chrome_special_case_text": {
+      "message": "Αυτή η επέκταση λειτουργεί καλύτερα στις αρχικές σελίδες ή στην κύρια σελίδα των περισσότερων ιστότοπων.\u003Cp>Δοκιμάστε την επέκταση σε έναν από τους αγαπημένους σας ιστότοπους&mdash;ελέγξτε την και δείτε τις προτάσεις σελίδας για κάτι που γνωρίζετε."
+   },
+   "sp_default_title": {
+      "message": "Δείτε τις Σχετικές σελίδες Google"
+   },
+   "sp_description": {
+      "message": "Ανακαλύψτε ιστοσελίδες που είναι σχετικές με τη σελίδα όπου κάνετε περιήγηση αυτήν τη στιγμή."
+   },
+   "sp_domain_change_message": {
+      "message": " \u003Ca id='over' href='#'>Κάντε κλικ εδώ\u003C/a>, για να αλλάξετε τον τοπικό σας τομέα σε www.google.com."
+   },
+   "sp_domain_clicked_message": {
+      "message": "Ο τομέας www.google.com έχει αποθηκευτεί ως ο τοπικός σας τομέας για την ανάκτηση παρόμοιων σελίδων."
+   },
+   "sp_domain_message": {
+      "message": "Η επέκταση θα επικοινωνήσει με το $1 για να ανακτήσει τη λίστα με τις σχετικές σελίδες.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_num_pages": {
+      "message": "Αριθμός σελίδων: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_about_google": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/about.html'>Σχετικά με την Google\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_copy": {
+      "message": "&copy;2010 Google"
+   },
+   "sp_options_feedback": {
+      "message": "Θα θέλαμε να ακούσουμε τα σχόλιά σας στη διεύθυνση \u003Ca href='mailto:similarpages-extension@google.com'>similarpages-extension@google.com\u003C/a>. Σας ευχαριστούμε!"
+   },
+   "sp_options_intro": {
+      "message": "Η επέκταση προγράμματος περιήγησης Σχετικές σελίδες Google σάς δίνει τη δυνατότητα γρήγορης προεπισκόπησης και εξερεύνησης άλλων σελίδων που είναι σχετικές με αυτήν στην οποία περιηγείστε -- άμεσα!"
+   },
+   "sp_options_legal": {
+      "message": "Όταν κάνετε κλικ στο κουμπί των Σχετικών σελίδων, το πρόγραμμα περιήγησής σας θα στείλει ένα ερώτημα αναζήτησης στη Google για να διαπιστώσει εάν υπάρχουν σελίδες που είναι σχετικές με αυτήν που προβάλλετε.\u003Cp>\u003Cspan id='domain_select_block'>\u003C/span>Ο χειρισμός των δεδομένων γίνεται όπως περιγράφεται στην \u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>πολιτική απορρήτου\u003C/a> της Google",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_privacy_policy": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>Πολιτική Απορρήτου\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_tos": {
+      "message": "\u003Ca href='http://chrome.google.com/extensions/intl/$1/gallery_tos.html'>Όροι Παροχής Υπηρεσιών\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_uninstall": {
+      "message": "Κατάργηση εγκατάστασης"
+   },
+   "sp_options_uninstall_message": {
+      "message": "Για να καταργήσετε την εγκατάσταση των Σχετικών σελίδων Google, χρησιμοποιήστε την επιλογή μενού Εργαλεία \"Επεκτάσεις &gt; του Chrome\" και κάντε κλικ στο σύνδεσμο \"Κατάργηση εγκατάστασης\" για την επέκταση Σχετικές σελίδες Google."
+   },
+   "sp_preview_not_available": {
+      "message": "Δεν διατίθεται προεπισκόπηση\u003Cbr>"
+   },
+   "sp_product_name": {
+      "message": "Έκδοση beta Σχετικών σελίδων Google (από την Google)"
+   },
+   "sp_redirect_host": {
+      "message": "http://www.google.com"
+   },
+   "sp_space": {
+      "message": " "
+   },
+   "sp_title": {
+      "message": "Σχετικές σελίδες Google"
+   },
+   "sp_tld_special_case_text": {
+      "message": "Αυτήν τη στιγμή, η επέκταση δεν είναι διαθέσιμη για τη χώρα/περιοχή σας. Επισκεφθείτε μας ξανά σύντομα."
+   },
+   "sp_zero_results": {
+      "message": "Δεν βρέθηκαν σχετικές σελίδες."
+   }
+}

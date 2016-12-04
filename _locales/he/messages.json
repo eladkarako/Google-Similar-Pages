@@ -1,0 +1,107 @@
+{
+   "locale": {
+      "message": "iw"
+   },
+   "sp_chrome_https_case_text": {
+      "message": "לתוסף זה אין אפשרות לספק הצעות מדפים כגון זה, שבהם יש תוכן מאובטח (לדוגמה, http\u003Cb>s\u003C/b>://). להתראות ברשת הציבורית!"
+   },
+   "sp_chrome_special_case_text": {
+      "message": "תוסף זה פועל בצורה הטובה ביותר בדפי הבית או בדף הראשי של רוב אתרי האינטרנט.\u003Cp>נסה את התוסף באתר אינטרנט שכבר מוצא חן בעיניך&mdash;בחן אותו וראה את ההצעות בדף לגבי משהו שאתה מכיר."
+   },
+   "sp_default_title": {
+      "message": "‏הצג Google Similar Pages"
+   },
+   "sp_description": {
+      "message": "גלה דפי אינטרנט הדומים לדף שאתה גולש בו כעת."
+   },
+   "sp_domain_change_message": {
+      "message": "‏ כדי לשנות את הדומיין המקומי שלך ל-www.google.com‏, \u003Ca id='over' href='#'>לחץ כאן\u003C/a>."
+   },
+   "sp_domain_clicked_message": {
+      "message": "www.google.com נשמר כדומיין המקומי שלך לאחזור דפים דומים."
+   },
+   "sp_domain_message": {
+      "message": "התוסף ייצור קשר עם $1 כדי לאחזר את רשימת הדפים הדומים.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_num_pages": {
+      "message": "מספר עמודים: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_about_google": {
+      "message": "‏\u003Ca href='http://www.google.com/intl/$1/about.html'>מידע על Google‏\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_copy": {
+      "message": "‏&copy;‏2010 Google‏"
+   },
+   "sp_options_feedback": {
+      "message": "נשמח לשמוע את המשוב שלך בכתובת \u003Ca href='mailto:similarpages-extension@google.com'>similarpages-extension@google.com\u003C/a>. תודה!"
+   },
+   "sp_options_intro": {
+      "message": "‏תוסף הדפדפן Google Similar Pages מאפשר לך להציג בתצוגה מקדימה ולחקור במהירות דפים אחרים הדומים לדף שבו אתה גולש כעת -- בזמן אמת!"
+   },
+   "sp_options_legal": {
+      "message": "‏כאשר תלחץ על הלחצן ‏Similar Pages, הדפדפן שלך ישלח שאילתת חיפוש ל-Google כדי לבדוק אם יש דפים דומים לדף שבו אתה צופה.\u003Cp>\u003Cspan id='domain_select_block'>\u003C/span>הנתונים הקשורים לשאילתה יטופלו כפי שמתואר ב\u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>מדיניות הפרטיות של \u003C/a>Google‏",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_privacy_policy": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>מדיניות פרטיות\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_tos": {
+      "message": "\u003Ca href='http://chrome.google.com/extensions/intl/$1/gallery_tos.html'>תנאים והגבלות\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_uninstall": {
+      "message": "הסר התקנה"
+   },
+   "sp_options_uninstall_message": {
+      "message": "‏כדי להסיר את ההתקנה של Google Similar Pages, השתמש באפשרות התפריט כלים &gt; תוספים של Chrome, ולחץ על הקישור 'הסר התקנה' של התוסף Google Similar Pages."
+   },
+   "sp_preview_not_available": {
+      "message": "תצוגה מקדימה\u003Cbr>אינה זמינה"
+   },
+   "sp_product_name": {
+      "message": "‏גרסת ביטא של Google Similar Pages (מאת Google)"
+   },
+   "sp_redirect_host": {
+      "message": "http://www.google.com"
+   },
+   "sp_space": {
+      "message": " "
+   },
+   "sp_title": {
+      "message": "Google Similar Pages"
+   },
+   "sp_tld_special_case_text": {
+      "message": "התוסף אינן זמין בשלב זה עבור ארץ/אזור מגוריך. בדוק שוב בקרוב."
+   },
+   "sp_zero_results": {
+      "message": "לא נמצאו דפים דומים."
+   }
+}

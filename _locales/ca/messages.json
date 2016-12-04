@@ -1,0 +1,107 @@
+{
+   "locale": {
+      "message": "ca"
+   },
+   "sp_chrome_https_case_text": {
+      "message": "Aquesta extensió no pot fer suggeriments en pàgines com aquesta, que tenen contingut segur (p. ex., http\u003Cb>s\u003C/b>://). Ens veiem al web públic!"
+   },
+   "sp_chrome_special_case_text": {
+      "message": "Aquesta extensió funciona millor en pàgines d'inici o a la pàgina principal de la majoria de llocs web.\u003Cp>Proveu l'extensió en un lloc web que ja us agradi molt&mdash;feu-hi proves i vegeu els suggeriments de pàgina sobre coses que coneixeu."
+   },
+   "sp_default_title": {
+      "message": "Vegeu Pàgines similars de Google"
+   },
+   "sp_description": {
+      "message": "Permet descobrir pàgines web similars a la pàgina per la qual navegueu en aquests moments."
+   },
+   "sp_domain_change_message": {
+      "message": " Per canviar el domini local a www.google.com, \u003Ca id='over' href='#'>feu clic aquí\u003C/a>."
+   },
+   "sp_domain_clicked_message": {
+      "message": "www.google.com s'ha desat com el vostre domini local per recuperar pàgines similars."
+   },
+   "sp_domain_message": {
+      "message": "L'extensió contactarà amb $1 per recuperar la llista de pàgines similars.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_num_pages": {
+      "message": "Nombre de pàgines: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_about_google": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/about.html'>Quant a Google\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_copy": {
+      "message": "&copy;2010 Google"
+   },
+   "sp_options_feedback": {
+      "message": "Ens agradaria molt que ens féssiu arribar qualsevol comentari que tingueu a \u003Ca href='mailto:similarpages-extension@google.com'>similarpages-extension@google.com\u003C/a>. Gràcies."
+   },
+   "sp_options_intro": {
+      "message": "L'extensió del navegador Pàgines similars de Google permet fer una visualització prèvia i explorar altres pàgines similars a la que esteu explorant, amb rapidesa i sobre la marxa."
+   },
+   "sp_options_legal": {
+      "message": "En fer clic al botó Pàgines similars, el vostre navegador enviarà una consulta de cerca a Google per veure si hi ha pàgines similars per a la pàgina que esteu consultant. \u003Cp>\u003Cspan id='domain_select_block'>\u003C/span>Les dades relacionades amb la consulta es gestionaran segons es descriu a la \u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>política de privadesa\u003C/a> de Google.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_privacy_policy": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>Política de privadesa\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_tos": {
+      "message": "\u003Ca href='http://chrome.google.com/extensions/intl/$1/gallery_tos.html'>Termes i condicions\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_uninstall": {
+      "message": "Desinstal·la"
+   },
+   "sp_options_uninstall_message": {
+      "message": "Per desinstal·lar Pàgines similars de Google, utilitzeu l'opció del menú Extensions d'eines &gt; de Google Chrome i feu clic a l'enllaç \"Desinstal·la\" de l'extensió Pàgines similars de Google."
+   },
+   "sp_preview_not_available": {
+      "message": "Visualització prèvia\u003Cbr>no disponible"
+   },
+   "sp_product_name": {
+      "message": "Pàgines similars de Google, versió beta (de Google)"
+   },
+   "sp_redirect_host": {
+      "message": "http://www.google.com"
+   },
+   "sp_space": {
+      "message": " "
+   },
+   "sp_title": {
+      "message": "Pàgines similars de Google"
+   },
+   "sp_tld_special_case_text": {
+      "message": "En aquests moments, l'extensió no està disponible per al vostre país o per a la vostra regió. Torneu a comprovar-ho més endavant."
+   },
+   "sp_zero_results": {
+      "message": "No s'han trobat pàgines similars."
+   }
+}

@@ -1,0 +1,107 @@
+{
+   "locale": {
+      "message": "vi"
+   },
+   "sp_chrome_https_case_text": {
+      "message": "Tiện ích mở rộng này không thể đưa ra đề xuất từ các trang như thế này, đây là các trang đã bảo mật nội dung (ví dụ: http\u003Cb>s\u003C/b>://). Hẹn gặp lại bạn trên trang web công cộng!"
+   },
+   "sp_chrome_special_case_text": {
+      "message": "Tiện ích mở rộng này hoạt động tốt nhất trên trang chủ hoặc trang chính của hầu hết các trang web.\u003Cp>Hãy thử tiện ích mở rộng này trên trang web bạn yêu thích&mdash;chạy thử tiện ích mở rộng này và xem các đề xuất trang về những điều bạn biết."
+   },
+   "sp_default_title": {
+      "message": "Xem Trang tương tự trên Google"
+   },
+   "sp_description": {
+      "message": "Khám phá các trang web tương tự như trang web bạn hiện đang duyệt qua."
+   },
+   "sp_domain_change_message": {
+      "message": " Để đổi tên miền địa phương của bạn thành www.google.com, \u003Ca id='over' href='#'>nhấp vào đây\u003C/a>."
+   },
+   "sp_domain_clicked_message": {
+      "message": "www.google.com đã được lưu làm tên miền địa phương của bạn cho việc truy xuất các trang tương tự."
+   },
+   "sp_domain_message": {
+      "message": "Tiện ích mở rộng này sẽ liên hệ với $1 để truy xuất danh sách các trang tương tự.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_num_pages": {
+      "message": "Số trang: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_about_google": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/about.html'>Giới thiệu về Google\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_copy": {
+      "message": "&copy;2010 Google"
+   },
+   "sp_options_feedback": {
+      "message": "Chúng tôi rất muốn nghe bất kỳ phản hồi nào từ bạn tại \u003Ca href='mailto:similarpages-extension@google.com'>similarpages-extension@google.com\u003C/a>. Xin cảm ơn!"
+   },
+   "sp_options_intro": {
+      "message": "Tiện ích mở rộng cho trình duyệt Google Similar Pages cho phép bạn nhanh chóng xem trước và khám phá các trang khác tương tự như trang bạn đang duyệt qua -- một cách nhanh chóng!"
+   },
+   "sp_options_legal": {
+      "message": "Khi bạn nhấp vào nút Trang tương tự, trình duyệt của bạn sẽ gửi truy vấn tìm kiếm đến Google để xem liệu có bất kỳ trang tương tự nào cho trang bạn đang xem không.\u003Cp>\u003Cspan id='domain_select_block'>\u003C/span>Dữ liệu liên quan đến truy vấn sẽ được xử lý như được mô tả trong \u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>chính sách bảo mật\u003C/a> của Google",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_privacy_policy": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>Chính sách bảo mật\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_tos": {
+      "message": "\u003Ca href='http://chrome.google.com/extensions/intl/$1/gallery_tos.html'>Điều khoản dịch vụ\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_uninstall": {
+      "message": "Gỡ cài đặt"
+   },
+   "sp_options_uninstall_message": {
+      "message": "Để gỡ cài đặt Google Similar Pages, hãy sử dụng tùy chọn trình đơn Công cụ &gt; Tiện ích mở rộng của Chrome và nhấp vào liên kết Gỡ cài đặt dành cho tiện ích mở rộng Trang tương tự trên Google."
+   },
+   "sp_preview_not_available": {
+      "message": "Xem trước\u003Cbr>không khả dụng"
+   },
+   "sp_product_name": {
+      "message": "Trang tương tự trên Google, bản beta (của Google)"
+   },
+   "sp_redirect_host": {
+      "message": "http://www.google.com"
+   },
+   "sp_space": {
+      "message": " "
+   },
+   "sp_title": {
+      "message": "Trang tương tự trên Google"
+   },
+   "sp_tld_special_case_text": {
+      "message": "Tiện ích mở rộng này hiện chưa có tại quốc gia/vùng của bạn. Hãy kiểm tra lại sớm."
+   },
+   "sp_zero_results": {
+      "message": "Không tìm thấy trang nào tương tự."
+   }
+}

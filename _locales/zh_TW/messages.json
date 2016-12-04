@@ -1,0 +1,107 @@
+{
+   "locale": {
+      "message": "zh-TW"
+   },
+   "sp_chrome_https_case_text": {
+      "message": "這個擴充功能無法為含有安全內容的網頁 (例如 http\u003Cb>s\u003C/b>://) 提供建議。請在公開網站上使用這個擴充功能。"
+   },
+   "sp_chrome_special_case_text": {
+      "message": "這個擴充功能可以在大部分網站的首頁或主頁上展現最佳效能。\u003Cp>在您喜愛的網站上試用這個擴充功能 &mdash; 利用自己熟悉的內容測試一下，看看能獲得哪些網頁建議。"
+   },
+   "sp_default_title": {
+      "message": "查看 Google 類似網頁"
+   },
+   "sp_description": {
+      "message": "尋找與目前所看網頁內容類似的網頁。"
+   },
+   "sp_domain_change_message": {
+      "message": "如要將本機網域變更為 www.google.com，請\u003Ca id='over' href='#'>按一下這裡\u003C/a>。"
+   },
+   "sp_domain_clicked_message": {
+      "message": "您已將 www.google.com 儲存為本機網域，用來擷取類似網頁。"
+   },
+   "sp_domain_message": {
+      "message": "這個擴充功能會連線至 $1 擷取類似網頁清單。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_num_pages": {
+      "message": "頁數：$1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_about_google": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/about.html'>關於 Google\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_copy": {
+      "message": "&copy;2010 Google"
+   },
+   "sp_options_feedback": {
+      "message": "歡迎將您寶貴的意見寄至 \u003Ca href='mailto:similarpages-extension@google.com'>similarpages-extension@google.com\u003C/a>。感謝您！"
+   },
+   "sp_options_intro": {
+      "message": "Google 類似網頁瀏覽器擴充功能，可讓您迅速預覽並查看其他與目前您所看網頁類似的網頁！"
+   },
+   "sp_options_legal": {
+      "message": "按一下 [類似網頁] 按鈕，瀏覽器就會將查詢傳送至 Google 伺服器，查看是否有任何網頁與您目前瀏覽的網頁內容類似。\u003Cp>\u003Cspan id='domain_select_block'>\u003C/span>我們會根據 Google \u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>隱私權政策\u003C/a>處理查詢的相關資料。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_privacy_policy": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>隱私權政策\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_tos": {
+      "message": "\u003Ca href='http://chrome.google.com/extensions/intl/$1/gallery_tos.html'>服務條款\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_uninstall": {
+      "message": "解除安裝"
+   },
+   "sp_options_uninstall_message": {
+      "message": "如要解除安裝 Google 類似網頁，請使用 Chrome 的工具 &gt; 擴充功能選單選項，按一下 Google 類似網頁擴充功能的 [解除安裝] 連結。"
+   },
+   "sp_preview_not_available": {
+      "message": "不支援\u003Cbr>預覽功能"
+   },
+   "sp_product_name": {
+      "message": "Google 類似網頁測試版 (由 Google 提供)"
+   },
+   "sp_redirect_host": {
+      "message": "http://www.google.com"
+   },
+   "sp_space": {
+      "message": " "
+   },
+   "sp_title": {
+      "message": "Google 類似網頁"
+   },
+   "sp_tld_special_case_text": {
+      "message": "目前您的國家/地區無法使用這個擴充功能，請密切注意後續消息。"
+   },
+   "sp_zero_results": {
+      "message": "找不到類似網頁。"
+   }
+}

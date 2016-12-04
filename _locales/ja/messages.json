@@ -1,0 +1,107 @@
+{
+   "locale": {
+      "message": "ja"
+   },
+   "sp_chrome_https_case_text": {
+      "message": "この拡張機能は、セキュリティで保護されているコンテンツを含むページ（例: http\u003Cb>s\u003C/b>://）には対応していません。一般公開サイトでご利用ください。"
+   },
+   "sp_chrome_special_case_text": {
+      "message": "この拡張機能は、ほとんどのウェブサイトのホームページやメイン ページで最も効果的に機能します。\u003Cp>いつも見ているウェブサイトで試してみましょう。&mdash; よく知っている内容についてどのようなページ候補が表示されるかを確認してください。"
+   },
+   "sp_default_title": {
+      "message": "類似ページを Google で検索して表示"
+   },
+   "sp_description": {
+      "message": "閲覧中のウェブページと類似するページを紹介します。"
+   },
+   "sp_domain_change_message": {
+      "message": "ローカル ドメインを www.google.com に変更するには、\u003Ca id='over' href='#'>こちらをクリック\u003C/a>してください。"
+   },
+   "sp_domain_clicked_message": {
+      "message": "類似するページを取得する際のローカル ドメインとして www.google.com が保存されました。"
+   },
+   "sp_domain_message": {
+      "message": "この拡張機能では、類似するページの一覧を $1 から取得します。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_num_pages": {
+      "message": "ページ数: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_about_google": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/about.html'>Google について\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_copy": {
+      "message": "&copy;2010 Google"
+   },
+   "sp_options_feedback": {
+      "message": "ご意見、ご感想をお待ちしております。\u003Ca href='mailto:similarpages-extension@google.com'>similarpages-extension@google.com\u003C/a> にお寄せください。"
+   },
+   "sp_options_intro": {
+      "message": "Google Similar Pages は、閲覧中のウェブページに似たページをすばやく見つけるためのブラウザ拡張機能です。"
+   },
+   "sp_options_legal": {
+      "message": "Similar Pages ボタンをクリックすると、ブラウザから Google に検索キーワードが送信され、表示しているページに類似したページが検索されます。\u003Cp>\u003Cspan id='domain_select_block'>\u003C/span>この検索キーワードに関するデータは、Google の\u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>プライバシー ポリシー\u003C/a>に記載されているとおりに取り扱われます。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_privacy_policy": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>プライバシー ポリシー\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_tos": {
+      "message": "\u003Ca href='http://chrome.google.com/extensions/intl/$1/gallery_tos.html'>利用規約\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_uninstall": {
+      "message": "アンインストール"
+   },
+   "sp_options_uninstall_message": {
+      "message": "Google Similar Pages をアンインストールするには、Chrome の [ツール] &gt; [拡張機能] をクリックし、Google Similar Pages 拡張機能の [アンインストール] をクリックします。"
+   },
+   "sp_preview_not_available": {
+      "message": "プレビューは\u003Cbr>ご利用になれません"
+   },
+   "sp_product_name": {
+      "message": "Google Similar Pages ベータ版（by Google）"
+   },
+   "sp_redirect_host": {
+      "message": "http://www.google.co.jp"
+   },
+   "sp_space": {
+      "message": ""
+   },
+   "sp_title": {
+      "message": "Google Similar Pages"
+   },
+   "sp_tld_special_case_text": {
+      "message": "この拡張機能は、設定された国/地域ではまだ利用できません。しばらくしてからもう一度確認してください。"
+   },
+   "sp_zero_results": {
+      "message": "類似するページは見つかりませんでした。"
+   }
+}

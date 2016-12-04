@@ -1,0 +1,107 @@
+{
+   "locale": {
+      "message": "sl"
+   },
+   "sp_chrome_https_case_text": {
+      "message": "Ta razširitev ne more dajati predlogov s strani z zaščiteno vsebino (npr. http\u003Cb>s\u003C/b>://), kot je ta. Vidimo se spet v javnem spletu."
+   },
+   "sp_chrome_special_case_text": {
+      "message": "Ta razširitev najbolje deluje na domačih straneh ali glavni strani večine spletnih mest.\u003Cp>Preskusite razširitev na spletnem mestu, ki ga sicer radi obiščete,&mdash;in si oglejte predloge za vam poznano temo."
+   },
+   "sp_default_title": {
+      "message": "Oglejte si Google Podobne strani"
+   },
+   "sp_description": {
+      "message": "Odkrijte spletne strani, podobne tej, po kateri brskate."
+   },
+   "sp_domain_change_message": {
+      "message": " Če želite spremeniti lokalno domeno na www.google.com, \u003Ca id='over' href='#'>kliknite tukaj\u003C/a>."
+   },
+   "sp_domain_clicked_message": {
+      "message": "www.google.com je shranjeno v vaši lokalni domeni za prenos podobnih strani."
+   },
+   "sp_domain_message": {
+      "message": "Razširitev bo vzpostavila povezavo z gostiteljem $1, da prenese seznam podobnih strani.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_num_pages": {
+      "message": "Število strani: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_about_google": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/about.html'>O Googlu\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_copy": {
+      "message": "&copy;2010 Google"
+   },
+   "sp_options_feedback": {
+      "message": "Zanimajo nas vsakršne povratne informacije. Lahko nam jih pošljete na \u003Ca href='mailto:similarpages-extension@google.com'>similarpages-extension@google.com\u003C/a>. Hvala."
+   },
+   "sp_options_intro": {
+      "message": "Razširitev Google Podobne strani za brskalnik omogoča sproten hiter predogled in raziskovanje drugih strani, podobnih tisti, po kateri brskate."
+   },
+   "sp_options_legal": {
+      "message": "Ko kliknete gumb za podobne strani, brskalnik pošlje iskalno poizvedbo Googlu in preveri, ali so na voljo strani, podobne tej, po kateri brskate.\u003Cp>\u003Cspan id='domain_select_block'>\u003C/span>Podatki, ki so povezani s poizvedbo, so uporabljeni skladno z Googlovim \u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>pravilnikom o zasebnosti\u003C/a>.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_privacy_policy": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>Pravilnik o zasebnosti\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_tos": {
+      "message": "\u003Ca href='http://chrome.google.com/extensions/intl/$1/gallery_tos.html'>Pogoji storitve\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_uninstall": {
+      "message": "Odstranjevanje"
+   },
+   "sp_options_uninstall_message": {
+      "message": "Če želite odstraniti Google Podobne strani, v Chromu izberite »Orodja« &gt; »Razširitve« in kliknite povezavo »Odstrani« za razširitev Google Podobne strani."
+   },
+   "sp_preview_not_available": {
+      "message": "Predogled\u003Cbr>ni na voljo"
+   },
+   "sp_product_name": {
+      "message": "Google Podobne strani, različica beta (od Googla)"
+   },
+   "sp_redirect_host": {
+      "message": "http://www.google.com"
+   },
+   "sp_space": {
+      "message": " "
+   },
+   "sp_title": {
+      "message": "Google Podobne strani"
+   },
+   "sp_tld_special_case_text": {
+      "message": "Razširitev trenutno ni na voljo za vašo državo/območje. Preverite znova pozneje."
+   },
+   "sp_zero_results": {
+      "message": "Ni podobnih strani."
+   }
+}

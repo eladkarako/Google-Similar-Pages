@@ -1,0 +1,107 @@
+{
+   "locale": {
+      "message": "ko"
+   },
+   "sp_chrome_https_case_text": {
+      "message": "보안 콘텐츠가 있는 페이지(예: http\u003Cb>s\u003C/b>://)에서는 이 확장 프로그램의 제안 기능을 사용할 수 없습니다. 공개 웹페이지에서 이용하세요."
+   },
+   "sp_chrome_special_case_text": {
+      "message": "확장 프로그램은 대개 웹사이트의 홈페이지 또는 기본 페이지에서 가장 잘 작동합니다.\u003Cp>자주 사용하는 웹사이트에서 확장 프로그램을 사용해 보세요.&mdash;확장 프로그램을 시범적으로 사용해 보고 알고 있는 내용에 대한 페이지 제안사항을 확인해 보세요."
+   },
+   "sp_default_title": {
+      "message": "Google 비슷한 페이지 보기"
+   },
+   "sp_description": {
+      "message": "현재 찾고 있는 페이지와 유사한 웹페이지를 검색해 보세요."
+   },
+   "sp_domain_change_message": {
+      "message": "로컬 도메인을 www.google.com 사이트로 변경하려면 \u003Ca id='over' href='#'>여기를 클릭\u003C/a>하세요."
+   },
+   "sp_domain_clicked_message": {
+      "message": "www.google.com이(가) 유사한 페이지 검색을 위한 로컬 도메인으로 저장되었습니다."
+   },
+   "sp_domain_message": {
+      "message": "확장 프로그램은 $1에 접속하여 유사한 페이지 목록을 검색합니다.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_num_pages": {
+      "message": "페이지 수: $1장",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_about_google": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/about.html'>Google 정보\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_copy": {
+      "message": "&copy;2010 Google"
+   },
+   "sp_options_feedback": {
+      "message": "의견이 있으시면 \u003Ca href='mailto:similarpages-extension@google.com'>similarpages-extension@google.com\u003C/a>에 보내주시기 바랍니다. 감사합니다."
+   },
+   "sp_options_intro": {
+      "message": "Google 비슷한 페이지 브라우저 확장 프로그램을 사용하면 찾고 있는 페이지와 유사한 다른 페이지를 빠르게 미리 보고 탐색할 수 있습니다."
+   },
+   "sp_options_legal": {
+      "message": "비슷한 페이지 버튼을 클릭하면 브라우저에서 Google에 검색어를 보내 현재 보고 있는 페이지와 유사한 페이지가 있는지 확인합니다.\u003Cp>\u003Cspan id='domain_select_block'>\u003C/span>검색어와 관련된 페이지는 Google \u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>개인정보취급방침\u003C/a>을 준수하여 처리됩니다.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_privacy_policy": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>개인정보취급방침\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_tos": {
+      "message": "\u003Ca href='http://chrome.google.com/extensions/intl/$1/gallery_tos.html'>서비스 약관\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_uninstall": {
+      "message": "제거"
+   },
+   "sp_options_uninstall_message": {
+      "message": "Google 비슷한 페이지를 제거하려면 Chrome의 도구&gt;> 확장 프로그램 메뉴 옵션을 사용하여 Google 비슷한 페이지 확장 프로그램 제거 링크를 클릭하세요."
+   },
+   "sp_preview_not_available": {
+      "message": "미리보기\u003Cbr>사용할 수 없음"
+   },
+   "sp_product_name": {
+      "message": "Google 비슷한 페이지 베타(Google 제공)"
+   },
+   "sp_redirect_host": {
+      "message": "http://www.google.com"
+   },
+   "sp_space": {
+      "message": " "
+   },
+   "sp_title": {
+      "message": "Google 비슷한 페이지"
+   },
+   "sp_tld_special_case_text": {
+      "message": "현재 해당 국가/지역에서는 확장 프로그램을 사용할 수 없습니다. 나중에 다시 확인해 주세요."
+   },
+   "sp_zero_results": {
+      "message": "유사한 페이지가 없습니다."
+   }
+}

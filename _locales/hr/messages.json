@@ -1,0 +1,107 @@
+{
+   "locale": {
+      "message": "hr"
+   },
+   "sp_chrome_https_case_text": {
+      "message": "Ovo proširenje ne može davati prijedloge sa stranica poput ove sa sigurnim sadržajem (npr. http\u003Cb>s\u003C/b>://). Vidimo se ponovo na javnom webu!"
+   },
+   "sp_chrome_special_case_text": {
+      "message": "Ovo proširenje najbolje radi na početnim ili glavnim stranicama većine web-stranica.\u003Cp>Proširenje isprobajte na web-stranici koja vam se već sviđa&mdash;isprobajte ga i pogledajte prijedloge stranica o nečemu što poznajete."
+   },
+   "sp_default_title": {
+      "message": "Pogledajte Google slične stranice"
+   },
+   "sp_description": {
+      "message": "Otkrijte web-stranice slične onima koje trenutačno pregledavate."
+   },
+   "sp_domain_change_message": {
+      "message": " Kako biste promijenili svoju lokalnu domenu na www.google.com, \u003Ca id='over' href='#'>kliknite ovdje\u003C/a>."
+   },
+   "sp_domain_clicked_message": {
+      "message": "Google domena www.google.com spremljena je kao lokalna domena za dohvaćanje sličnih stranica."
+   },
+   "sp_domain_message": {
+      "message": "Proširenje će kontaktirati glavno računalo $1 zbog dohvaćanja popisa sličnih stranica.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_num_pages": {
+      "message": "Broj stranica: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_about_google": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/about.html'>O Googleu\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_copy": {
+      "message": "Autorsko pravo &copy; 2010. Google"
+   },
+   "sp_options_feedback": {
+      "message": "Slobodno nam pošaljite sve povratne informacije na adresu \u003Ca href='mailto:similarpages-extension@google.com'>similarpages-extension@google.com\u003C/a>. Hvala."
+   },
+   "sp_options_intro": {
+      "message": "Proširenje preglednika Google slične stranice omogućuje u hodu brz pregled drugih stranica koje su slične onoj koju pregledavate."
+   },
+   "sp_options_legal": {
+      "message": "Kada kliknete gumb Slične stranice vaš će preglednik poslati upit Googleu kako bi provjerio postoje li stranice slične onoj koju gledate.\u003Cp>\u003Cspan id='domain_select_block'>\u003C/span>Podaci srodni upitu obrađivat će se prema opisu iz Googleovih \u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>pravila o privatnosti\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_privacy_policy": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>Pravila o privatnosti\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_tos": {
+      "message": "\u003Ca href='http://chrome.google.com/extensions/intl/$1/gallery_tos.html'>Uvjeti pružanja usluge\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_uninstall": {
+      "message": "Deinstaliraj"
+   },
+   "sp_options_uninstall_message": {
+      "message": "Kako biste deinstalirali Google slične stranice, upotrijebite opciju izbornika Alati &gt; proširenja preglednika Chrome, zatim kliknite vezu Deinstaliraj za proširenje Google slične stranice."
+   },
+   "sp_preview_not_available": {
+      "message": "Pregled\u003Cbr>nije dostupan"
+   },
+   "sp_product_name": {
+      "message": "Google slične stranice beta (od Googlea)"
+   },
+   "sp_redirect_host": {
+      "message": "http://www.google.com"
+   },
+   "sp_space": {
+      "message": " "
+   },
+   "sp_title": {
+      "message": "Google slične stranice"
+   },
+   "sp_tld_special_case_text": {
+      "message": "Proširenje trenutačno nije dostupno za vašu zemlju/regiju. Uskoro ponovo provjerite."
+   },
+   "sp_zero_results": {
+      "message": "Nisu pronađene slične stranice."
+   }
+}

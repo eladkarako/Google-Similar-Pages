@@ -1,0 +1,107 @@
+{
+   "locale": {
+      "message": "bg"
+   },
+   "sp_chrome_https_case_text": {
+      "message": "Това разширение не може да дава предложения от страници със защитено съдържание, като тази (напр. http\u003Cb>s\u003C/b>://). До скоро виждане в обществената мрежа!"
+   },
+   "sp_chrome_special_case_text": {
+      "message": "Това разширение работи най-добре на начални страници или на главната страница на повечето уебсайтове.\u003Cp>Изпробвайте го в уебсайт, който вече ви е любим &mdash; вижте как работи и предложенията, които дава за страници по позната за вас тема."
+   },
+   "sp_default_title": {
+      "message": "Вижте подобни страници от Google"
+   },
+   "sp_description": {
+      "message": "Открийте уеб страници, подобни на тази, която преглеждате в момента."
+   },
+   "sp_domain_change_message": {
+      "message": " За да замените местния домейн на Google с www.google.com, \u003Ca id='over' href='#'>кликнете тук\u003C/a>."
+   },
+   "sp_domain_clicked_message": {
+      "message": "www.google.com е запазен като местния за вас домейн за извличане на подобни страници."
+   },
+   "sp_domain_message": {
+      "message": "Разширението ще се свърже с/ъс $1, за да извлече списъка с подобни страници.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_num_pages": {
+      "message": "Брой страници: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_about_google": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/about.html'>Всичко за Google\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_copy": {
+      "message": "&copy;2010 Google"
+   },
+   "sp_options_feedback": {
+      "message": "Ще се радваме да ни изпратите отзивите си, каквито и да са те, на адрес \u003Ca href='mailto:similarpages-extension@google.com'>similarpages-extension@google.com\u003C/a>. Благодаря!"
+   },
+   "sp_options_intro": {
+      "message": "Разширението за браузър Google Подобни страници ви позволява бързо да визуализирате и преглеждате други страници, които са подобни на разглежданата от вас. Няма бавене!"
+   },
+   "sp_options_legal": {
+      "message": "Когато кликнете върху бутона за подобни страници, браузърът ви ще изпрати заявка за търсене до Google, за да провери дали има подобни на разглежданата от вас страница.\u003Cp>\u003Cspan id='domain_select_block'>\u003C/span>Свързаните със заявката данни ще се обработват, както е описано в \u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>Декларацията за поверителност\u003C/a> на Google.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_privacy_policy": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>Декларация за поверителност\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_tos": {
+      "message": "\u003Ca href='http://chrome.google.com/extensions/intl/$1/gallery_tos.html'>Общи условия\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_uninstall": {
+      "message": "Деинсталиране"
+   },
+   "sp_options_uninstall_message": {
+      "message": "За да деинсталирате Google Подобни страници, използвайте опцията „Разширения“ &gt; от меню „Инструменти“ на Chrome и кликнете върху връзката „Деинсталиране“ за това разширение."
+   },
+   "sp_preview_not_available": {
+      "message": "Визуализацията\u003Cbr>не е налице"
+   },
+   "sp_product_name": {
+      "message": "Google Подобни страници бета (от Google)"
+   },
+   "sp_redirect_host": {
+      "message": "http://www.google.com"
+   },
+   "sp_space": {
+      "message": " "
+   },
+   "sp_title": {
+      "message": "Google Подобни страници"
+   },
+   "sp_tld_special_case_text": {
+      "message": "Разширението понастоящем не се предлага за вашата държава/регион. Моля, проверете отново скоро."
+   },
+   "sp_zero_results": {
+      "message": "Няма намерени подобни страници."
+   }
+}

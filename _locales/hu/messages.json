@@ -1,0 +1,107 @@
+{
+   "locale": {
+      "message": "hu"
+   },
+   "sp_chrome_https_case_text": {
+      "message": "Ez a bővítmény nem tud javaslatokat tenni az ehhez hasonló biztonságos tartalommal rendelkező oldalak alapján (pl. http\u003Cb>s\u003C/b>://). Viszontlátásra a nyilvános weben!"
+   },
+   "sp_chrome_special_case_text": {
+      "message": "Ez a bővítmény a legtöbb webhely fő- vagy kezdőlapján működik a legjobban.\u003Cp>Próbálja ki a bővítményt egy olyan honlapon, amit már megkedvelt&mdash;tesztelje, és nézze meg, milyen javaslatok érkeznek egy olyan dologra, amit már ismer."
+   },
+   "sp_default_title": {
+      "message": "Google Hasonló oldalak megtekintése"
+   },
+   "sp_description": {
+      "message": "Fedezzen fel más, az éppen megtekintetthez hasonló weboldalakat."
+   },
+   "sp_domain_change_message": {
+      "message": " A helyi domain www.google.hu címre való módosításához \u003Ca id='over' href='#'>kattintson ide\u003C/a>."
+   },
+   "sp_domain_clicked_message": {
+      "message": "A hasonló oldalak a(z) www.google.com helyi domain segítségével lesznek lekérve."
+   },
+   "sp_domain_message": {
+      "message": "A bővítmény a(z) $1 gazdagéppel kapcsolatba lépve kéri le a hasonló oldalak listáját.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_num_pages": {
+      "message": "Oldalak száma: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_about_google": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/about.html'>Minden a Google-ról\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_copy": {
+      "message": "&copy;2010 Google"
+   },
+   "sp_options_feedback": {
+      "message": "Örömmel fogadjuk visszajelzését a(z) \u003Ca href='mailto:similarpages-extension@google.com'>similarpages-extension@google.com\u003C/a> e-mail címen. Köszönjük!"
+   },
+   "sp_options_intro": {
+      "message": "A Google Hasonló oldalak bővítménnyel gyorsan felfedezhet a jelenleg böngészetthez hasonló oldalakat, és megtekintheti előnézetüket -- mindezt menet közben."
+   },
+   "sp_options_legal": {
+      "message": "Ha rákattint a Hasonló oldalak gombra, a böngésző keresési lekérdezést küld a Google-nak, hogy ellenőrizze, vannak-e a megjelenítetthez hasonló oldalak.\u003Cp>\u003Cspan id='domain_select_block'>\u003C/span>A lekérdezéssel kapcsolatos adatokat a Google \u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>adatvédelmi irányelveiben\u003C/a> foglaltak szerint kezeljük.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_privacy_policy": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>Adatvédelmi irányelvek\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_tos": {
+      "message": "\u003Ca href='http://chrome.google.com/extensions/intl/$1/gallery_tos.html'>Általános Szerződési Feltételek\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_uninstall": {
+      "message": "Eltávolítás"
+   },
+   "sp_options_uninstall_message": {
+      "message": "A Google Hasonló oldalak bővítmény eltávolításához nyissa meg a Google Chrome Eszközök &gt; Bővítmények menüjét, majd kattintson a Google Hasonló oldalak melletti Eltávolítás linkre."
+   },
+   "sp_preview_not_available": {
+      "message": "Nem érhető el\u003Cbr>előnézet"
+   },
+   "sp_product_name": {
+      "message": "Google Hasonló oldalak béta (Google)"
+   },
+   "sp_redirect_host": {
+      "message": "http://www.google.hu"
+   },
+   "sp_space": {
+      "message": " "
+   },
+   "sp_title": {
+      "message": "Google Hasonló oldalak"
+   },
+   "sp_tld_special_case_text": {
+      "message": "Ez a bővítmény jelenleg nem érhető el országában/régiójában. Kérjük, látogasson vissza a közeljövőben."
+   },
+   "sp_zero_results": {
+      "message": "Nem található hasonló oldal."
+   }
+}

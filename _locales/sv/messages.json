@@ -1,0 +1,107 @@
+{
+   "locale": {
+      "message": "sv"
+   },
+   "sp_chrome_https_case_text": {
+      "message": "Detta tillägg ger inga förslag från sidor med säkert innehåll, som den här (t.ex. http\u003Cb>s\u003C/b>://) Vi ses på den allmänna webben!"
+   },
+   "sp_chrome_special_case_text": {
+      "message": "Tillägget fungerar bäst på webbplatsernas startsidor.\u003Cp>Testa tillägget på en webbplats som du gillar &mdash;och få sidförslag om saker du känner till."
+   },
+   "sp_default_title": {
+      "message": "Visa Google Similar Pages"
+   },
+   "sp_description": {
+      "message": "Hitta webbplatser som liknar sidan du befinner dig på just nu."
+   },
+   "sp_domain_change_message": {
+      "message": " Om du vill ändra din lokala domän till www.google.com klickar du \u003Ca id='over' href='#'>här\u003C/a>."
+   },
+   "sp_domain_clicked_message": {
+      "message": "www.google.com har sparats som din lokala domän för hämtning av liknande sidor."
+   },
+   "sp_domain_message": {
+      "message": "Tillägget kommer att kontakta $1 för att hämta listan med liknande sidor.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_num_pages": {
+      "message": "Antal sidor: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_about_google": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/about.html'>Om Google\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_copy": {
+      "message": "&copy;2010 Google"
+   },
+   "sp_options_feedback": {
+      "message": "Skicka gärna dina synpunkter till \u003Ca href='mailto:similarpages-extension@google.com'>similarpages-extension@google.com\u003C/a>. Tack!"
+   },
+   "sp_options_intro": {
+      "message": "Med webbläsartillägget Google Similar Pages kan du snabbt och enkelt förhandsgranska och utforska sidor som liknar den du befinner dig på, utan att lämna sidan."
+   },
+   "sp_options_legal": {
+      "message": "När du klickar på knappen Similar Pages skickas en sökfråga till Google för att se om det finns andra sidor som liknar den du visar.\u003Cp>\u003Cspan id='domain_select_block'>\u003C/span>Data i sökningen hanteras enligt beskrivningen i Googles \u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>sekretesspolicy\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_privacy_policy": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>Sekretesspolicy\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_tos": {
+      "message": "\u003Ca href='http://chrome.google.com/extensions/intl/$1/gallery_tos.html'>Användarvillkor\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_uninstall": {
+      "message": "Avinstallera"
+   },
+   "sp_options_uninstall_message": {
+      "message": "Om du vill avinstallera Google Similar Pages öppnar du Verktyg &gt; Tillägg i Chrome. Sedan klickar du på länken Avinstallera för tillägget Google Similar Pages."
+   },
+   "sp_preview_not_available": {
+      "message": "Förhandsvisning \u003Cbr> inte tillgänglig"
+   },
+   "sp_product_name": {
+      "message": "Google Similar Pages beta (från Google)"
+   },
+   "sp_redirect_host": {
+      "message": "http://www.google.com"
+   },
+   "sp_space": {
+      "message": " "
+   },
+   "sp_title": {
+      "message": "Google Similar Pages"
+   },
+   "sp_tld_special_case_text": {
+      "message": "Tillägget är inte tillgängligt för ditt land eller din region just nu. Kom tillbaka senare."
+   },
+   "sp_zero_results": {
+      "message": "Inga liknande sidor hittades."
+   }
+}

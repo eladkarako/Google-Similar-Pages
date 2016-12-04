@@ -1,0 +1,107 @@
+{
+   "locale": {
+      "message": "pt-PT"
+   },
+   "sp_chrome_https_case_text": {
+      "message": "Esta extensão não pode fazer sugestões a partir de páginas como esta que possuem conteúdo seguro (por exemplo, http\u003Cb>s\u003C/b>://). Voltamos a ver-nos na Web pública!"
+   },
+   "sp_chrome_special_case_text": {
+      "message": "Esta extensão funciona melhor nas páginas iniciais ou nas páginas principais da maioria dos Websites.\u003Cp>Experimente a extensão num Website que já aprecie &mdash; teste-a e veja as sugestões de página sobre algo que já conhece."
+   },
+   "sp_default_title": {
+      "message": "Ver Páginas Similares do Google"
+   },
+   "sp_description": {
+      "message": "Descubra páginas Web semelhantes à página em que está a navegar."
+   },
+   "sp_domain_change_message": {
+      "message": " Para alterar o seu domínio local para www.google.com, \u003Ca id='over' href='#'>clique aqui\u003C/a>."
+   },
+   "sp_domain_clicked_message": {
+      "message": "www.google.com foi guardado como o seu domínio local para obter páginas similares."
+   },
+   "sp_domain_message": {
+      "message": "A extensão irá contactar $1 para obter a lista de páginas similares. ",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_num_pages": {
+      "message": "Número de páginas: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_about_google": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/about.html'>Acerca da Google\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_copy": {
+      "message": "&copy;2010 Google"
+   },
+   "sp_options_feedback": {
+      "message": "Gostaríamos de receber os seus comentários em \u003Ca href='mailto:similarpages-extension@google.com'>similarpages-extension@google.com\u003C/a>. Obrigado!"
+   },
+   "sp_options_intro": {
+      "message": "A extensão de navegador Google Similar Pages permite-lhe pré-visualizar e explorar rapidamente outras páginas que são similares à que está a visitar - num ápice!"
+   },
+   "sp_options_legal": {
+      "message": "Ao clicar no botão de Páginas Similares, o seu navegador envia uma consulta de pesquisa para o Google para descobrir se existem páginas similares à que está a visualizar.\u003Cp>\u003Cspan id='domain_select_block'>\u003C/span>Os dados relacionados com a consulta serão tratados conforme se encontra descrito na \u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>política de privacidade\u003C/a> da Google",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_privacy_policy": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>Política de Privacidade\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_tos": {
+      "message": "\u003Ca href='http://chrome.google.com/extensions/intl/$1/gallery_tos.html'>Termos de Utilização\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_uninstall": {
+      "message": "Desinstalar"
+   },
+   "sp_options_uninstall_message": {
+      "message": "Para desinstalar o Google Similar Pages, utilize a opção de menu Ferramentas do Chrome &gt; Extensões e clique no link Desinstalar da extensão Google Similar Pages."
+   },
+   "sp_preview_not_available": {
+      "message": "Pré-visualização \u003Cbr> não disponível"
+   },
+   "sp_product_name": {
+      "message": "Google Similar Pages beta (do Google)"
+   },
+   "sp_redirect_host": {
+      "message": "http://www.google.com"
+   },
+   "sp_space": {
+      "message": " "
+   },
+   "sp_title": {
+      "message": "Google Similar Pages"
+   },
+   "sp_tld_special_case_text": {
+      "message": "A extensão não está atualmente disponível para o seu país/região. Verifique novamente em breve."
+   },
+   "sp_zero_results": {
+      "message": "Não foram encontradas páginas similares."
+   }
+}

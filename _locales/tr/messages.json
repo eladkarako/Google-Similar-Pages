@@ -1,0 +1,107 @@
+{
+   "locale": {
+      "message": "tr"
+   },
+   "sp_chrome_https_case_text": {
+      "message": "Bu uzantı, güvenli içeriğe (ör.http\u003Cb>s\u003C/b>:// ) sahip bu gibi sayfalardan önerilerde bulunamaz. Herkese açık Web'de görüşmek üzere!"
+   },
+   "sp_chrome_special_case_text": {
+      "message": "Bu uzantı çoğu web sitesinin giriş sayfasında veya ana sayfasında daha iyi çalışır.\u003Cp>Uzantıyı, beğendiğiniz bir web sitesinde deneyin&mdash;test edin ve bildiğiniz şeylerle ilgili sayfa önerilerini görün."
+   },
+   "sp_default_title": {
+      "message": "Google Benzer Sayflar'ı keşfedin"
+   },
+   "sp_description": {
+      "message": "Şu anda göz attığınız sayfaya benzer Web sayfaları keşfedin."
+   },
+   "sp_domain_change_message": {
+      "message": " Yerel alan adınızı www.google.com olarak değiştirmek için \u003Ca id='over' href='#'>burayı\u003C/a> tıklayın."
+   },
+   "sp_domain_clicked_message": {
+      "message": "www.google.com benzer sayfaları almak üzere yerel alanınız olarak kaydedildi."
+   },
+   "sp_domain_message": {
+      "message": "Uzantı benzer sayfaların listesini almak için $1 ile bağlantı kuracak.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_num_pages": {
+      "message": "Sayfa sayısı: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_about_google": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/about.html'>Google Hakkında\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_copy": {
+      "message": "&copy;2010 Google"
+   },
+   "sp_options_feedback": {
+      "message": "Görüşlerinizi öğrenmek isteriz. Düşüncelerinizi \u003Ca href='mailto:similarpages-extension@google.com'>similarpages-extension@google.com\u003C/a> adresine gönderebilirsiniz. Teşekkürler!"
+   },
+   "sp_options_intro": {
+      "message": "Google Benzer Sayfalar tarayıcı uzantısı, göz atmakta olduğunuz sayfaya benzer başka sayfaları hiç beklemeden, hızla önizlemenize ve keşfetmenize olanak sağlar."
+   },
+   "sp_options_legal": {
+      "message": "Benzer Sayfalar düğmesini tıkladığınızda, tarayıcınız, görüntülemekte olduğunuz sayfaya benzer sayfalar olup olmadığını bulmak için Google'a bir arama sorgusu gönderir.\u003Cp>\u003Cspan id='domain_select_block'>\u003C/span>Sorguyla ilişkili veriler Google'ın \u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>gizlilik politikasında\u003C/a> açıklandığı şekilde işlenir.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_privacy_policy": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>Gizlilik Politikası\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_tos": {
+      "message": "\u003Ca href='http://chrome.google.com/extensions/intl/$1/gallery_tos.html'>Hizmet Şartları\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_uninstall": {
+      "message": "Yüklemeyi Kaldırma"
+   },
+   "sp_options_uninstall_message": {
+      "message": "Google Benzer Sayfalar'ın yüklemesini kaldırmak için Chrome'un Araçlar&gt; Uzantılar menü seçeneğini kullanın ve Google Benzer Sayfalar uzantısı için Yüklemeyi kaldır bağlantısını tıklayın."
+   },
+   "sp_preview_not_available": {
+      "message": "Önizleme\u003Cbr>kullanılamıyor"
+   },
+   "sp_product_name": {
+      "message": "Google Benzer Sayfalar beta (Google'dan)"
+   },
+   "sp_redirect_host": {
+      "message": "http://www.google.com"
+   },
+   "sp_space": {
+      "message": " "
+   },
+   "sp_title": {
+      "message": "Google Benzer Sayfalar"
+   },
+   "sp_tld_special_case_text": {
+      "message": "Uzantı şu an için ülkenizde/bölgenizde kullanılamıyor. Lütfen kısa bir süre sonra tekrar kontrol edin."
+   },
+   "sp_zero_results": {
+      "message": "Benzer sayfa bulunamadı."
+   }
+}

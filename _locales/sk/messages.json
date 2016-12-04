@@ -1,0 +1,107 @@
+{
+   "locale": {
+      "message": "sk"
+   },
+   "sp_chrome_https_case_text": {
+      "message": "Toto rozšírenie nemôže ponúkať návrhy zo stránok so zabezpečeným obsahom (napr. http\u003Cb>s\u003C/b>://). Tešíme sa na vás na verejnom webe."
+   },
+   "sp_chrome_special_case_text": {
+      "message": "Toto rozšírenie funguje najlepšie na domovskej stránke alebo na hlavnej stránke väčšiny webových stránok. \u003Cp> Skúste rozšírenie na webových stránkach, ktoré sa vám páčia &mdash;, otestujte ho a pozrite sa na návrhy stránok niečoho, čo poznáte."
+   },
+   "sp_default_title": {
+      "message": "Prezrite si Podobné stránky Google"
+   },
+   "sp_description": {
+      "message": "Objavte webové stránky podobné tým, ktoré práve prehliadate."
+   },
+   "sp_domain_change_message": {
+      "message": " Ak chcete zmeniť miestnu doménu na stránku www.google.com, \u003Ca id='over' href='#'>kliknite tu\u003C/a>."
+   },
+   "sp_domain_clicked_message": {
+      "message": "Doména www.google.com bola uložená ako miestna doména na vyhľadávanie podobných stránok."
+   },
+   "sp_domain_message": {
+      "message": "Rozšírenie bude kontaktovať doménu $1, aby načítalo zoznam podobných stránok.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_num_pages": {
+      "message": "Počet strán: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_about_google": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/about.html'>O spoločnosti Google\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_copy": {
+      "message": "&copy;2010 Google"
+   },
+   "sp_options_feedback": {
+      "message": "Tešíme sa na vaše názory a pripomienky zaslané na adresu \u003Ca href='mailto:similarpages-extension@google.com'>similarpages-extension@google.com\u003C/a>. Ďakujeme."
+   },
+   "sp_options_intro": {
+      "message": "Rozšírenie prehliadača Podobné stránky Google vám umožní rýchlo a priebežne zobrazovať ukážky iných stránok podobných tej, ktorú práve prehliadate, a preskúmavať ich."
+   },
+   "sp_options_legal": {
+      "message": "Keď kliknete na tlačidlo Podobné stránky, váš prehliadač odošle spoločnosti Google vyhľadávací dopyt a pokúsi sa tak zistiť, či existujú stránky podobné tej zobrazenej.\u003Cp>\u003Cspan id='domain_select_block'>\u003C/span>S údajmi súvisiacimi s dopytom budeme zaobchádzať v súlade s \u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>pravidlami ochrany osobných údajov\u003C/a> Google.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_privacy_policy": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>Pravidlá ochrany osobných údajov\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_tos": {
+      "message": "\u003Ca href='http://chrome.google.com/extensions/intl/$1/gallery_tos.html'>Zmluvné podmienky\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_uninstall": {
+      "message": "Odinštalovať"
+   },
+   "sp_options_uninstall_message": {
+      "message": "Ak chcete rozšírenie Podobné stránky Google odinštalovať, prejdite v ponuke prehliadača Chrome na možnosť Nástroje &gt; Rozšírenia a pri rozšírení Podobné stránky Google kliknite na odkaz Odinštalovať."
+   },
+   "sp_preview_not_available": {
+      "message": "Ukážka \u003Cbr> nie je k dispozícii"
+   },
+   "sp_product_name": {
+      "message": "Podobné stránky Google beta (od Google)"
+   },
+   "sp_redirect_host": {
+      "message": "http://www.google.com"
+   },
+   "sp_space": {
+      "message": " "
+   },
+   "sp_title": {
+      "message": "Podobné stránky Google"
+   },
+   "sp_tld_special_case_text": {
+      "message": "Rozšírenie v súčasnosti nie je pre vašu krajinu alebo oblasť k dispozícii. Skúste to znova neskôr."
+   },
+   "sp_zero_results": {
+      "message": "Nenašli sa žiadne podobné stránky."
+   }
+}

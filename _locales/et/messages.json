@@ -1,0 +1,107 @@
+{
+   "locale": {
+      "message": "et"
+   },
+   "sp_chrome_https_case_text": {
+      "message": "Laiendus ei saa esitada soovitusi sellistelt lehtedelt, millel on turvaline sisu (nt http\u003Cb>s\u003C/b>://). Kohtume taas avalikus veebis!"
+   },
+   "sp_chrome_special_case_text": {
+      "message": "See laiendus töötab kõige paremini enamiku veebisaitide avalehtedel või peamistel lehtedel.\u003Cp>Proovige laiendust saidil, mis teile juba meeldib &mdash; katsetage seda ja vaadake tuttavate lehtede kohta soovitusi."
+   },
+   "sp_default_title": {
+      "message": "Vaadake Google'i sarnaseid lehti"
+   },
+   "sp_description": {
+      "message": "Leidke veebilehti, mis sarnanevad praegu sirvitavaga."
+   },
+   "sp_domain_change_message": {
+      "message": " Kui soovite asendada oma kohaliku domeeni aadressiga www.google.com, siis \u003Ca id='over' href='#'>klõpsake siin\u003C/a>."
+   },
+   "sp_domain_clicked_message": {
+      "message": "www.google.com on salvestatud kohaliku domeenina sarnaste lehtede toomiseks."
+   },
+   "sp_domain_message": {
+      "message": "Laiendus võtab sarnaste lehtede loendi toomiseks ühendust hostiga $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_num_pages": {
+      "message": "Lehtede arv: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_about_google": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/about.html'>Teave Google'i kohta\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_copy": {
+      "message": "&copy; 2010 Google"
+   },
+   "sp_options_feedback": {
+      "message": "Saatke julgelt tagasisidet aadressil \u003Ca href='mailto:similarpages-extension@google.com'>similarpages-extension@google.com\u003C/a>. Täname!"
+   },
+   "sp_options_intro": {
+      "message": "Google'i sarnaste lehtede laiendus brauserile võimaldab teil kiiresti eelvaadata ja avastada lehti, mis sarnanevad praegu sirvitavaga – käigu pealt!"
+   },
+   "sp_options_legal": {
+      "message": "Sarnaste lehtede nupul klõpsates saadab brauser Google'ile otsingupäringu, et leida lehti, mis sarnanevad praegu kuvatavaga. \u003Cp>\u003Cspan id='domain_select_block'>\u003C/span>Päringuga seotud andmeid töödeldakse vastavalt Google'i \u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>privaatsuseeskirjadele\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_privacy_policy": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>Privaatsuseeskirjad\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_tos": {
+      "message": "\u003Ca href='http://chrome.google.com/extensions/intl/$1/gallery_tos.html'>Teenusetingimused\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_uninstall": {
+      "message": "Desinstallimine"
+   },
+   "sp_options_uninstall_message": {
+      "message": "Google'i sarnaste lehtede desinstallimiseks kasutage Chrome'i menüü Tööriistad &gt; menüüvalikut Laiendused ja klõpsake Google'i sarnaste lehtede laienduse lingil Desinstallimine."
+   },
+   "sp_preview_not_available": {
+      "message": "Eelvaade\u003Cbr>ei ole saadaval"
+   },
+   "sp_product_name": {
+      "message": "Google'i sarnaste lehtede beetaversioon (Google'ilt)"
+   },
+   "sp_redirect_host": {
+      "message": "http://www.google.ee"
+   },
+   "sp_space": {
+      "message": " "
+   },
+   "sp_title": {
+      "message": "Google'i sarnased lehed"
+   },
+   "sp_tld_special_case_text": {
+      "message": "Laiendus ei ole praegu teie riigis/piirkonnas saadaval. Vaadake varsti uuesti."
+   },
+   "sp_zero_results": {
+      "message": "Sarnaseid lehti ei leitud."
+   }
+}

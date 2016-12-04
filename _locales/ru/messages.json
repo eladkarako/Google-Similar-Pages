@@ -1,0 +1,107 @@
+{
+   "locale": {
+      "message": "ru"
+   },
+   "sp_chrome_https_case_text": {
+      "message": "Это расширение не предлагает рекомендуемые варианты на страницах с защищенным содержанием (например, http\u003Cb>s\u003C/b>://). Перейдите на общедоступный сайт."
+   },
+   "sp_chrome_special_case_text": {
+      "message": "Это расширение лучше всего работает на домашних страницах и главных страницах большинства веб-сайтов.\u003Cp>Испытайте работу расширения на сайте, который вам нравится, и получите варианты предложений по знакомой&mdash; вам тематике."
+   },
+   "sp_default_title": {
+      "message": "Открыть Google Similar Pages"
+   },
+   "sp_description": {
+      "message": "Найдите страницы, похожие на открытую сейчас."
+   },
+   "sp_domain_change_message": {
+      "message": " Чтобы изменить локальный домен на www.google.com, \u003Ca id='over' href='#'>нажмите здесь\u003C/a>."
+   },
+   "sp_domain_clicked_message": {
+      "message": "Домен www.google.com выбран локальным для поиска похожих страниц."
+   },
+   "sp_domain_message": {
+      "message": "Расширение будет обращаться к сайту $1 за списком похожих страниц.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_num_pages": {
+      "message": "Количество страниц: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_about_google": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/about.html'>Все о Google\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_copy": {
+      "message": "&copy; Google, 2010"
+   },
+   "sp_options_feedback": {
+      "message": "Будем рады получить ваши отзывы. Отправляйте их по адресу \u003Ca href='mailto:similarpages-extension@google.com'>similarpages-extension@google.com\u003C/a>. Спасибо!"
+   },
+   "sp_options_intro": {
+      "message": "Расширение Google Similar Pages позволяет найти страницы, подобные открытой, и быстро их просмотреть."
+   },
+   "sp_options_legal": {
+      "message": "Если нажать кнопку Similar pages, ваш браузер отправит поисковый запрос в систему Google, чтобы проверить, существуют ли страницы, схожие с той, которую вы просматриваете в этот момент.\u003Cp>\u003Cspan id='domain_select_block'>\u003C/span>Данные, связанные с запросом, будут обработаны в соответствии с \u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>политикой конфиденциальности\u003C/a> Google.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_privacy_policy": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>Политика конфиденциальности\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_tos": {
+      "message": "\u003Ca href='http://chrome.google.com/extensions/intl/$1/gallery_tos.html'>Условия использования\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_uninstall": {
+      "message": "Удаление"
+   },
+   "sp_options_uninstall_message": {
+      "message": "Чтобы удалить Google Similar Pages из Chrome, нажмите на значок гаечного ключа, выберите пункты \"Инструменты\" &gt; \"Расширения\" и нажмите \"Удалить\" возле расширения Google Similar Pages."
+   },
+   "sp_preview_not_available": {
+      "message": "Предварительный просмотр\u003Cbr>недоступен"
+   },
+   "sp_product_name": {
+      "message": "Google Similar Pages Бета (от Google)"
+   },
+   "sp_redirect_host": {
+      "message": "http://www.google.com"
+   },
+   "sp_space": {
+      "message": " "
+   },
+   "sp_title": {
+      "message": "Google Similar Pages"
+   },
+   "sp_tld_special_case_text": {
+      "message": "Это расширение пока недоступно в вашем регионе. Попробуйте вернуться позже."
+   },
+   "sp_zero_results": {
+      "message": "Похожих страниц не найдено."
+   }
+}

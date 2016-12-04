@@ -1,0 +1,107 @@
+{
+   "locale": {
+      "message": "ar"
+   },
+   "sp_chrome_https_case_text": {
+      "message": "لا تستطيع هذه الإضافة إنشاء اقتراحات من صفحات كهذه لديها محتوى آمن (مثل http\u003Cb>s\u003C/b>://). نراك مرة أخرى عبر مواقع الويب العامة."
+   },
+   "sp_chrome_special_case_text": {
+      "message": "تعمل هذه الإضافة بشكل أفضل على الصفحات الرئيسية أو الصفحة الأساسية لمعظم مواقع الويب.\u003Cp>يمكنك تجربة الإضافة على موقع ويب يعجبك فعلاً&mdash;واختبره مبدئيًا واطلع على اقتراحات الصفحة بشأن شيء تعرفه."
+   },
+   "sp_default_title": {
+      "message": "‏الاطلاع على Google Similar Pages"
+   },
+   "sp_description": {
+      "message": "اكتشاف صفحات الويب المشابهة للصفحة التي تستعرضها حاليًا."
+   },
+   "sp_domain_change_message": {
+      "message": "‏ لتغيير نطاقك المحلي إلى www.google.com، \u003Ca id='over' href='#'>انقر هنا\u003C/a>."
+   },
+   "sp_domain_clicked_message": {
+      "message": "تم حفظ www.google.com كنطاقك المحلي لاسترداد الصفحات المشابهة."
+   },
+   "sp_domain_message": {
+      "message": "ستتصل الإضافة بـ $1 لاسترداد قائمة الصفحات المشابهة.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_num_pages": {
+      "message": "عدد الصفحات: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_about_google": {
+      "message": "‏\u003Ca href='http://www.google.com/intl/$1/about.html'>معلومات عن Google\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_copy": {
+      "message": "&copy;2010 Google"
+   },
+   "sp_options_feedback": {
+      "message": "نود تلقي أية ملاحظات لديك على \u003Ca href='mailto:similarpages-extension@google.com'>similarpages-extension@google.com\u003C/a>. شكرًا لك!"
+   },
+   "sp_options_intro": {
+      "message": "‏تتيح لك إضافة المتصفح Google Similar Pages إمكانية معاينة صفحات أخرى مشابهة للصفحة التي تستعرضها واكتشافها -- بسرعة وبشكلٍ فوري!"
+   },
+   "sp_options_legal": {
+      "message": "‏عندما تنقر على الزر Similar Pages، سيرسل متصفحك طلب بحث إلى Google لمعرفة ما إذا كانت هناك أية صفحات مشابهة للصفحة التي تعرضها أم لا.\u003Cp>\u003Cspan id='domain_select_block'>\u003C/span>سيتم التعامل مع البيانات المتعلقة بطلب البحث كما هو موضح في \u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>سياسة خصوصية\u003C/a> Google",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_privacy_policy": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>سياسة الخصوصية\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_tos": {
+      "message": "\u003Ca href='http://chrome.google.com/extensions/intl/$1/gallery_tos.html'>بنود الخدمة\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_uninstall": {
+      "message": "إزالة"
+   },
+   "sp_options_uninstall_message": {
+      "message": "‏لإزالة الإضافة Google Similar Pages، استخدم خيار قائمة الأدوات &gt; في المتصفح Chrome الإضافات، ثم انقر على رابط الإزالة للإضافة Google Similar Pages."
+   },
+   "sp_preview_not_available": {
+      "message": "المعاينة\u003Cbr>غير متاحة"
+   },
+   "sp_product_name": {
+      "message": "‏الإصدار التجريبي من الإضافة Google Similar Pages (من Google)"
+   },
+   "sp_redirect_host": {
+      "message": "http://www.google.com"
+   },
+   "sp_space": {
+      "message": " "
+   },
+   "sp_title": {
+      "message": "Google Similar Pages"
+   },
+   "sp_tld_special_case_text": {
+      "message": "هذه الإضافة ليست متاحة حاليًا لهذا البلد/المنطقة. الرجاء إعادة التحقق قريبًا."
+   },
+   "sp_zero_results": {
+      "message": "لم يتم العثور على أية صفحات مشابهة."
+   }
+}

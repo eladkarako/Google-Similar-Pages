@@ -1,0 +1,107 @@
+{
+   "locale": {
+      "message": "lv"
+   },
+   "sp_chrome_https_case_text": {
+      "message": "Šis paplašinājums nevar neko ieteikt no šāda veida lapām, kurām ir drošs saturs (piem., http\u003Cb>s\u003C/b>://). Tiekamies publiskajā tīmeklī!"
+   },
+   "sp_chrome_special_case_text": {
+      "message": "Šis paplašinājums vislabāk darbojas sākumlapās vai vietņu galvenajās lapās.\u003Cp>Izmēģiniet paplašinājumu sev iecienītā vietnē &mdash; pārbaudiet to un skatiet, kādas lapas tiek ieteiktas par jums zināmām lietām."
+   },
+   "sp_default_title": {
+      "message": "Skatīt Google līdzīgās lapas"
+   },
+   "sp_description": {
+      "message": "Atklājiet tīmekļa lapas, kas ir līdzīgas jūsu pārlūkotajām lapām."
+   },
+   "sp_domain_change_message": {
+      "message": " Lai mainītu savu vietējo domēnu uz www.google.lv, \u003Ca id='over' href='#'>noklikšķiniet šeit\u003C/a>."
+   },
+   "sp_domain_clicked_message": {
+      "message": "www.google.com ir saglabāts kā vietējais domēns, kas tiks izmantots līdzīgu lapu izgūšanai."
+   },
+   "sp_domain_message": {
+      "message": "Paplašinājums sazināsies ar $1, lai izgūtu līdzīgu lapu sarakstu.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_num_pages": {
+      "message": "Lappušu skaits: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_about_google": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/about.html'>Par Google\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_copy": {
+      "message": "&copy;2010 Google"
+   },
+   "sp_options_feedback": {
+      "message": "Mēs vēlētos iegūt jūsu atsauksmes. Nosūtiet mums tās uz \u003Ca href='mailto:similarpages-extension@google.com'>similarpages-extension@google.com\u003C/a>. Paldies!"
+   },
+   "sp_options_intro": {
+      "message": "Pārlūka paplašinājums Google līdzīgās lapas ļauj jums vienā mirklī priekšskatīt un izpētīt lapas, kas ir līdzīgas tobrīd pārlūkojamajai lapai."
+   },
+   "sp_options_legal": {
+      "message": "Noklikšķinot uz pogas Līdzīgās lapas, pārlūks nosūtīs meklēšanas vaicājumu uzņēmumam Google, lai uzzinātu, vai ir lapas, kas līdzīgas skatītajai.\u003Cp>\u003Cspan id='domain_select_block'>\u003C/span>Ar vaicājumu saistītie dati tiks izmantoti saskaņā ar Google \u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>konfidencialitātes politiku\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_privacy_policy": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>Konfidencialitātes politika\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_tos": {
+      "message": "\u003Ca href='http://chrome.google.com/extensions/intl/$1/gallery_tos.html'>Pakalpojumu sniegšanas noteikumi\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_uninstall": {
+      "message": "Atinstalēt"
+   },
+   "sp_options_uninstall_message": {
+      "message": "Lai atinstalētu paplašinājumu Google līdzīgās lapas, atveriet pārlūka Chrome izvēlnes opciju Rīki &gt; Paplašinājumi un blakus paplašinājumam Google līdzīgās saites noklikšķiniet uz saites Atinstalēt."
+   },
+   "sp_preview_not_available": {
+      "message": "Priekšskatījums \u003Cbr> nav pieejams"
+   },
+   "sp_product_name": {
+      "message": "Google līdzīgās lapas beta versija (nodrošina Google)"
+   },
+   "sp_redirect_host": {
+      "message": "http://www.google.com"
+   },
+   "sp_space": {
+      "message": " "
+   },
+   "sp_title": {
+      "message": "Google līdzīgās lapas"
+   },
+   "sp_tld_special_case_text": {
+      "message": "Šis paplašinājums šobrīd nav pieejams jūsu valstī/reģionā. Vēlāk pārbaudiet vēlreiz."
+   },
+   "sp_zero_results": {
+      "message": "Neviena līdzīga lapa netika atrasta."
+   }
+}

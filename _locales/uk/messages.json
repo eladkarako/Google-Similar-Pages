@@ -1,0 +1,107 @@
+{
+   "locale": {
+      "message": "uk"
+   },
+   "sp_chrome_https_case_text": {
+      "message": "Це розширення не відображає пропозиції на таких сторінках із безпечним вмістом, як ця (напр., http\u003Cb>s\u003C/b>://). Поверніться на загальнодоступні сторінки Інтернету."
+   },
+   "sp_chrome_special_case_text": {
+      "message": "Це розширення найкраще працює на домашніх або головних сторінках більшості веб-сайтів.\u003Cp>Спробуйте це розширення на своєму улюбленому веб-сайті&mdash;протестуйте його й отримайте пропозиції сторінок зі знайомою вам тематикою."
+   },
+   "sp_default_title": {
+      "message": "Переглянути схожі сторінки Google"
+   },
+   "sp_description": {
+      "message": "Шукає веб-сторінки, схожі до тієї, яку ви зараз переглядаєте."
+   },
+   "sp_domain_change_message": {
+      "message": " Щоб змінити свій місцевий домен на www.google.com, \u003Ca id='over' href='#'>натисніть тут\u003C/a>."
+   },
+   "sp_domain_clicked_message": {
+      "message": "www.google.com збережено як ваш місцевий домен для отримання схожих сторінок."
+   },
+   "sp_domain_message": {
+      "message": "Це розширення зв’яжеться з хостом $1, щоб отримати перелік схожих сторінок.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_num_pages": {
+      "message": "Кількість сторінок: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_about_google": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/about.html'>Про Google\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_copy": {
+      "message": "&copy;2010 Google"
+   },
+   "sp_options_feedback": {
+      "message": "Свої відгуки можна надсилати на адресу \u003Ca href='mailto:similarpages-extension@google.com'>similarpages-extension@google.com\u003C/a>. Дякуємо!"
+   },
+   "sp_options_intro": {
+      "message": "Розширення Схожі сторінки Google для веб-переглядача дозволяє миттєво здійснювати швидкий перегляд і досліджувати вміст інших сторінок, схожих на ту, на якій ви перебуваєте."
+   },
+   "sp_options_legal": {
+      "message": "Якщо натиснути кнопку \"Схожі сторінки\", веб-переглядач надішле пошуковий запит у Google, щоб перевірити наявність сторінок, схожих на ту, яку ви переглядаєте. \u003Cp>\u003Cspan id='domain_select_block'>\u003C/span>Дані, пов’язані з цим запитом, обробляються відповідно до \u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>Політики конфіденційності\u003C/a> Google.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_privacy_policy": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>Політика конфіденційності\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_tos": {
+      "message": "\u003Ca href='http://chrome.google.com/extensions/intl/$1/gallery_tos.html'>Загальні положення та умови Google\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_uninstall": {
+      "message": "Видалення"
+   },
+   "sp_options_uninstall_message": {
+      "message": "Щоб видалити розширення Схожі сторінки Google, скористайтеся пунктом &gt; \"Розширення\" в меню інструментів Chrome і натисніть посилання \"Видалити\" для розширення Схожі сторінки Google."
+   },
+   "sp_preview_not_available": {
+      "message": "Попередній перегляд\u003Cbr>не доступний"
+   },
+   "sp_product_name": {
+      "message": "Схожі сторінки Google, бета-версія (від Google)"
+   },
+   "sp_redirect_host": {
+      "message": "http://www.google.com"
+   },
+   "sp_space": {
+      "message": " "
+   },
+   "sp_title": {
+      "message": "Схожі сторінки Google"
+   },
+   "sp_tld_special_case_text": {
+      "message": "Це розширення наразі не доступне для вашої країни чи регіону. Спробуйте знову пізніше."
+   },
+   "sp_zero_results": {
+      "message": "Схожих сторінок не знайдено."
+   }
+}

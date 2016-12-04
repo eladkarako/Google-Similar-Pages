@@ -1,0 +1,107 @@
+{
+   "locale": {
+      "message": "sr"
+   },
+   "sp_chrome_https_case_text": {
+      "message": "Овај додатак не може да даје предлоге на основу страница попут ове, које имају заштићен садржај (нпр. http\u003Cb>s\u003C/b>://). Видимо се на јавном вебу!"
+   },
+   "sp_chrome_special_case_text": {
+      "message": "Овај додатак најбоље функционише на почетној или главној страници већине веб сајтова.\u003Cp>Испробајте додатак на веб сајту који вам се већ допада&mdash;тестирајте га да бисте видели предложене странице у вези са нечим што вам је познато."
+   },
+   "sp_default_title": {
+      "message": "Погледајте Google сличнe стрaницe"
+   },
+   "sp_description": {
+      "message": "Пронађите веб-странице сличне оној коју тренутно прегледате."
+   },
+   "sp_domain_change_message": {
+      "message": " Да бисте www.google.rs поставили као локални домен, \u003Ca id='over' href='#'>кликните овде\u003C/a>."
+   },
+   "sp_domain_clicked_message": {
+      "message": "www.google.com је сачуван као локални домен за преузимање сличних страница."
+   },
+   "sp_domain_message": {
+      "message": "Додатак ће контактирати домен $1 како би преузео листу сличних страница.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_num_pages": {
+      "message": "Број страница: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_about_google": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/about.html'>О Google-у\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_copy": {
+      "message": "&copy;2010. Google"
+   },
+   "sp_options_feedback": {
+      "message": "Било би нам драго да нам на адресу \u003Ca href='mailto:similarpages-extension@google.com'>similarpages-extension@google.com\u003C/a> пошаљете повратне информације. Хвала!"
+   },
+   "sp_options_intro": {
+      "message": "Проширење за прегледач Google сличне странице омогућава вам да брзо прегледате и истражујете странице сличне оној коју прегледате – у ходу!"
+   },
+   "sp_options_legal": {
+      "message": "Када кликнете на дугме Сличне странице, прегледач ће послати упит за претрагу Google-у да би видео да ли постоје странице сличне оној коју гледате.\u003Cp>\u003Cspan id='domain_select_block'>\u003C/span>Подацима везаним за упит ће се руковати у складу са Google-овом \u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>политиком приватности\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_privacy_policy": {
+      "message": "\u003Ca href='http://www.google.com/intl/$1/privacypolicy.html'>Политика приватности\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_tos": {
+      "message": "\u003Ca href='http://chrome.google.com/extensions/intl/$1/gallery_tos.html'>Услови коришћења услуге\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sp_options_uninstall": {
+      "message": "Деинсталирање"
+   },
+   "sp_options_uninstall_message": {
+      "message": "Да бисте деинсталирали Google сличне странице, користите мени Алатке &gt; Додаци у Chrome-у и кликните на везу Деинсталирај за додатак Google сличне странице."
+   },
+   "sp_preview_not_available": {
+      "message": "Преглед\u003Cbr>није доступан"
+   },
+   "sp_product_name": {
+      "message": "Google сличнe стрaницe Beta (од Google-а)"
+   },
+   "sp_redirect_host": {
+      "message": "http://www.google.rs"
+   },
+   "sp_space": {
+      "message": " "
+   },
+   "sp_title": {
+      "message": "Google сличнe стрaницe"
+   },
+   "sp_tld_special_case_text": {
+      "message": "Додатак тренутно није доступан за вашу земљу/регион. Проверите опет мало касније."
+   },
+   "sp_zero_results": {
+      "message": "Нису пронађене сличне странице."
+   }
+}
